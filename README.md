@@ -171,8 +171,8 @@ Revenue Growth = DIVIDE([Revenue] - [Revenue LY], [Revenue LY], 0)
 
 ## 👤 Author
 **Your Name**
-- GitHub: [@your_username](https://github.com/4rthye)
-- LinkedIn: [Your Profile](https://linkedin.com/in/arthyesridharan)
+- GitHub: [@4rthye](https://github.com/4rthye)
+- LinkedIn: [arthyesridharan](https://linkedin.com/in/arthyesridharan)
 
 ## 📄 License
 This project is open source and available under the MIT License.
